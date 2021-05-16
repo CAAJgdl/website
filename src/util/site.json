@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "title": "Club de Astronomía y Astronáutica Juvenil",
+    "titleTemplate": "%s",
+    "description": "El club te da la bienvenida a esta tripulación de jóvenes entusiastas de la ciencia y el espacio!",
+    "siteUrl": "https://gallant-hawking-a185f6.netlify.app",
+    "image": "/assets/70431950_105543717505685_5149147200667779072_n.jpg",
+    "iconimage": "/assets/70431950_105543717505685_5149147200667779072_n.jpg",
+    "twitterUsername": ""
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
